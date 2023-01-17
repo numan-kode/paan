@@ -1,0 +1,97 @@
+.home{
+    color: rgb(227, 8, 8);
+    font-weight:bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{
+    color: red;
+    font-size: 50px;
+}
+
+h3{
+    color: blueviolet;
+}
+h5{
+    color: rgb(251, 18, 18);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+h6{
+    color:brown;
+}
+
+b{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+p1{
+    color: yellow;
+}
+
+p2{
+    color: rgba(8, 239, 77, 0.969);
+    font-size: 120%;
+    font-weight: bolder;
+    font-style: italic;
+}
+p{
+    color: rgb(112, 18, 18);
+    font-style: italic;
+    font-weight: bold;
+}
+*{
+    color: yellowgreen;
+}
+title{
+    color: orange;
+}
+.image{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/a4.jpg);
+}
+.image5{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/a5.jpg);
+}
+.image6{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/a6.jpg);
+}
+.image7{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/a7.jpg);
+}
+.image8{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/a8.jpg);
+}
